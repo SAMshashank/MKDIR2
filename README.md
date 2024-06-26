@@ -1,2 +1,4 @@
-## Google Mediapipe Face Tracking in React with Ready Player Me Avatars
+## Ready Player Me Avatars
+https://readyplayer.me/hub
+
 
